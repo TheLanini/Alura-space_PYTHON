@@ -7,6 +7,10 @@ O Alura Space é um projeto desenvolvido com Django, que simula um CRUD para o e
 | :sparkles: Nome       | **Alura-Space**     |
 | :label: Tecnologias   | Python, Django, CSS |
 
+### Documentação complementar
+
+- [README de rotas, funções e endpoints da aplicação](./README-rotas-e-funcoes.md)
+
 ### Detalhes do projeto
 
 > - **Fazer login.**
